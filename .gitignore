@@ -1,0 +1,8 @@
+dist/
+dist-newstyle/
+cabal-dev/
+.ghc.environment*
+cabal.project.local
+report.html
+hie.yaml
+diamond
