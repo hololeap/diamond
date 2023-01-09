@@ -5,4 +5,5 @@ cabal-dev/
 cabal.project.local
 report.html
 hie.yaml
-diamond
+
+diamond-v*
